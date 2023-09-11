@@ -1,3 +1,5 @@
+View here [View](https://prinz-pizza.netlify.app/).
+
 # Komponen2 yang dibuat
     <Header/>
     <Menu/>
